@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'View_02' target in the 'View_02' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

@@ -1,0 +1,1027 @@
+TView_02
+v7
+r0
+t287511330.087798
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Info.plist" View_02-Info.plist
+cCompileXIB "/Users/Preston Air/work/iPad/View_02/MainWindow.xib"
+cCompileXIB "/Users/Preston Air/work/iPad/View_02/View_02ViewController.xib"
+cCpResource build/Debug-iphonesimulator/View_02.app/0.jpg "Sample Images/0.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/1.jpg "Sample Images/1.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/10.jpg "Sample Images/10.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/11.jpg "Sample Images/11.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/12.jpg "Sample Images/12.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/13.jpg "Sample Images/13.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/14.jpg "Sample Images/14.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/15.jpg "Sample Images/15.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/16.jpg "Sample Images/16.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/17.jpg "Sample Images/17.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/18.jpg "Sample Images/18.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/19.jpg "Sample Images/19.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/2.jpg "Sample Images/2.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/20.jpg "Sample Images/20.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/21.jpg "Sample Images/21.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/22.jpg "Sample Images/22.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/23.jpg "Sample Images/23.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/24.jpg "Sample Images/24.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/25.jpg "Sample Images/25.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/26.jpg "Sample Images/26.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/27.jpg "Sample Images/27.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/28.jpg "Sample Images/28.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/29.jpg "Sample Images/29.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/3.jpg "Sample Images/3.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/4.jpg "Sample Images/4.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/5.jpg "Sample Images/5.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/6.jpg "Sample Images/6.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/7.jpg "Sample Images/7.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/8.jpg "Sample Images/8.jpg"
+cCpResource build/Debug-iphonesimulator/View_02.app/9.jpg "Sample Images/9.jpg"
+cCpResource "build/Debug-iphonesimulator/View_02.app/Read me.txt" "Sample Images/Read me.txt"
+cCpResource build/Debug-iphonesimulator/View_02.app/Desk.png Desk.png
+cCompileXIB "/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib"
+cProcessPCH /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch.gch View_02_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/main.o "/Users/Preston Air/work/iPad/View_02/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02AppDelegate.o "/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02ViewController.o "/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFItemView.o "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFOpenFlowView.o "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFUIImageReflection.o "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/OpenFlowViewController.o "/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02" normal i386
+cGenerateDSYMFile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app.dSYM" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02"
+cTouch "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B6E1A240000000000000110
+t1265506852
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B567172000000000026F020
+t1263956338
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B56718B0000000000288B20
+t1263956363
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B56717E0000000000001355
+t1263956350
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B555ABC000000000000007D
+t1263884988
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B555BD8000000000011BEA0
+t1263885272
+s1162912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B56A2960000000000000970
+t1263968918
+s2416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B56A324000000000211C6C0
+t1263969060
+s34719424
+
+N/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.h
+c000000004B72DA9A0000000000000156
+t1265818266
+s342
+i<UIKit/UIKit.h>
+i"AFOpenFlowView.h"
+
+N/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m
+c000000004B72DA9A000000000000091D
+t1265818266
+s2333
+i"OpenFlowViewController.h"
+
+N/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib
+c000000004B723BC800000000000050E4
+t1265777608
+s20708
+
+N/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.h
+c000000004B723A5000000000000001D8
+t1265777232
+s472
+i<UIKit/UIKit.h>
+
+N/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m
+c000000004B723A50000000000000029B
+t1265777232
+s667
+i"View_02AppDelegate.h"
+i"View_02ViewController.h"
+
+N/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.h
+c000000004B72DA280000000000000132
+t1265818152
+s306
+i<UIKit/UIKit.h>
+
+N/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m
+c000000004B723EC80000000000000719
+t1265778376
+s1817
+i"View_02ViewController.h"
+i"OpenFlowViewController.h"
+
+N/Users/Preston Air/work/iPad/View_02/Desk.png
+c0000000048EA4C5C000000000003BE0F
+t1223314524
+s245263
+
+N/Users/Preston Air/work/iPad/View_02/MainWindow.xib
+c000000004B723A500000000000004D15
+t1265777232
+s19733
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.h
+c000000004B71E14200000000000006E1
+t1265754434
+s1761
+i<UIKit/UIKit.h>
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m
+c000000004B71E1420000000000000B33
+t1265754434
+s2867
+i"AFItemView.h"
+i<QuartzCore/QuartzCore.h>
+i"AFOpenFlowConstants.h"
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowConstants.h
+c000000004B71E1420000000000000505
+t1265754434
+s1285
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.h
+c000000004B71E1420000000000000AAC
+t1265754434
+s2732
+i<UIKit/UIKit.h>
+i"AFItemView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m
+c000000004B71E1420000000000003F83
+t1265754434
+s16259
+i"AFOpenFlowView.h"
+i"AFOpenFlowConstants.h"
+i"AFUIImageReflection.h"
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.h
+c000000004B71E1420000000000000504
+t1265754434
+s1284
+i<UIKit/UIKit.h>
+
+N/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m
+c000000004B71E1420000000000001002
+t1265754434
+s4098
+i"AFUIImageReflection.h"
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/0.jpg
+c000000004B71E14200000000000032B7
+t1265754434
+s12983
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/1.jpg
+c000000004B71E1420000000000005950
+t1265754434
+s22864
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/10.jpg
+c000000004B71E1420000000000005206
+t1265754434
+s20998
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/11.jpg
+c000000004B71E1420000000000002EE3
+t1265754434
+s12003
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/12.jpg
+c000000004B71E1420000000000006C11
+t1265754434
+s27665
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/13.jpg
+c000000004B71E142000000000000741B
+t1265754434
+s29723
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/14.jpg
+c000000004B71E1420000000000005A76
+t1265754434
+s23158
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/15.jpg
+c000000004B71E1420000000000006CC8
+t1265754434
+s27848
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/16.jpg
+c000000004B71E14200000000000033E2
+t1265754434
+s13282
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/17.jpg
+c000000004B71E142000000000000418C
+t1265754434
+s16780
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/18.jpg
+c000000004B71E1420000000000003A02
+t1265754434
+s14850
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/19.jpg
+c000000004B71E14200000000000071DD
+t1265754434
+s29149
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/2.jpg
+c000000004B71E1420000000000005A8F
+t1265754434
+s23183
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/20.jpg
+c000000004B71E142000000000000896E
+t1265754434
+s35182
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/21.jpg
+c000000004B71E14200000000000026BC
+t1265754434
+s9916
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/22.jpg
+c000000004B71E14200000000000054E4
+t1265754434
+s21732
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/23.jpg
+c000000004B71E14200000000000048F6
+t1265754434
+s18678
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/24.jpg
+c000000004B71E1420000000000008665
+t1265754434
+s34405
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/25.jpg
+c000000004B71E14200000000000063C9
+t1265754434
+s25545
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/26.jpg
+c000000004B71E1420000000000001A9E
+t1265754434
+s6814
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/27.jpg
+c000000004B71E1420000000000005012
+t1265754434
+s20498
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/28.jpg
+c000000004B71E142000000000000521F
+t1265754434
+s21023
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/29.jpg
+c000000004B71E1420000000000004E2F
+t1265754434
+s20015
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/3.jpg
+c000000004B71E142000000000000647C
+t1265754434
+s25724
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/4.jpg
+c000000004B71E1420000000000006CE9
+t1265754434
+s27881
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/5.jpg
+c000000004B71E1420000000000006511
+t1265754434
+s25873
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/6.jpg
+c000000004B71E1420000000000005E5B
+t1265754434
+s24155
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/7.jpg
+c000000004B71E14200000000000077F8
+t1265754434
+s30712
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/8.jpg
+c000000004B71E14200000000000053EC
+t1265754434
+s21484
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/9.jpg
+c000000004B71E1420000000000002981
+t1265754434
+s10625
+
+N/Users/Preston Air/work/iPad/View_02/Sample Images/Read me.txt
+c000000004B71E142000000000000004C
+t1265754434
+s76
+
+N/Users/Preston Air/work/iPad/View_02/View_02ViewController.xib
+c000000004B72DB940000000000005874
+t1265818516
+s22644
+
+N/Users/Preston Air/work/iPad/View_02/View_02_Prefix.pch
+c000000004B723A5000000000000000B7
+t1265777232
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app
+t1265818530
+s1360
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app.dSYM
+t1265818530
+s102
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/0.jpg
+t1265818528
+s12983
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/1.jpg
+t1265818528
+s22864
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/10.jpg
+t1265818528
+s20998
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/11.jpg
+t1265818528
+s12003
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/12.jpg
+t1265818528
+s27665
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/13.jpg
+t1265818528
+s29723
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/14.jpg
+t1265818528
+s23158
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/15.jpg
+t1265818528
+s27848
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/16.jpg
+t1265818528
+s13282
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/17.jpg
+t1265818528
+s16780
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/18.jpg
+t1265818528
+s14850
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/19.jpg
+t1265818528
+s29149
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/2.jpg
+t1265818528
+s23183
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/20.jpg
+t1265818528
+s35182
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/21.jpg
+t1265818528
+s9916
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/22.jpg
+t1265818528
+s21732
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/23.jpg
+t1265818528
+s18678
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/24.jpg
+t1265818528
+s34405
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/25.jpg
+t1265818528
+s25545
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/26.jpg
+t1265818528
+s6814
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/27.jpg
+t1265818528
+s20498
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/28.jpg
+t1265818528
+s21023
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/29.jpg
+t1265818528
+s20015
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/3.jpg
+t1265818528
+s25724
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/4.jpg
+t1265818528
+s27881
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/5.jpg
+t1265818528
+s25873
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/6.jpg
+t1265818528
+s24155
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/7.jpg
+t1265818528
+s30712
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/8.jpg
+t1265818528
+s21484
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/9.jpg
+t1265818528
+s10625
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Desk.png
+t1265818528
+s245263
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Info.plist
+t1265818528
+s591
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/MainWindow.nib
+t1265818528
+s1093
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/OpenFlowViewController.nib
+t1265818528
+s800
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/PkgInfo
+t1265818528
+s8
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Read me.txt
+t1265818528
+s76
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02
+t1265818530
+s46948
+
+N/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02ViewController.nib
+t1265818528
+s1382
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFItemView.o
+t1265818529
+s16768
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFOpenFlowView.o
+t1265818529
+s47920
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFUIImageReflection.o
+t1265818529
+s11016
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/OpenFlowViewController.o
+t1265818530
+s40948
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02.LinkFileList
+c000000004B72DBA00000000000000398
+t1265818528
+s920
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02AppDelegate.o
+t1265818529
+s41108
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02ViewController.o
+t1265818529
+s37052
+
+N/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/main.o
+t1265818529
+s5940
+
+N/Users/Preston Air/work/iPad/View_02/main.m
+c000000004B723A500000000000000162
+t1265777232
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch.gch
+t1265818529
+s13719376
+
+NView_02-Info.plist
+c000000004B723A50000000000000038D
+t1265777232
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287511328#287511328#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFItemView.o "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.789569
+e287511329.917328
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFItemView.o
+x/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m287511329#287511329#0(0"0(0#0#58"/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m4300903632#1878"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFItemView.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFItemView.o"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFOpenFlowView.o "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.843934
+e287511330.003261
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFOpenFlowView.o
+x/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m287511329#287511330#0(0"0(0#0#62"/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m4300903632#1886"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFOpenFlowView.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFOpenFlowView.o"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFUIImageReflection.o "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.917426
+e287511329.975136
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFUIImageReflection.o
+x/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m287511329#287511330#0(0"0(0#0#67"/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m4300903632#1896"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/OpenFlow/AFUIImageReflection.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/AFUIImageReflection.o"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/OpenFlowViewController.o "/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.975227
+e287511330.044831
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/OpenFlowViewController.o
+x/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m287511329#287511330#0(0"0(0#0#69"/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m4300903632#1901"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/OpenFlowViewController.o"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02AppDelegate.o "/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.721391
+e287511329.782839
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02AppDelegate.o
+x/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m287511329#287511329#0(0"0(0#0#65"/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m4300903632#1893"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/Classes/View_02AppDelegate.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02AppDelegate.o"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02ViewController.o "/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.782933
+e287511329.843828
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02ViewController.o
+x/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m287511329#287511329#0(0"0(0#0#68"/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m4300903632#1899"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/Classes/View_02ViewController.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02ViewController.o"0#
+
+CCompileC build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/main.o "/Users/Preston Air/work/iPad/View_02/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511329.720549
+e287511329.789469
+r1
+xCompileC
+xbuild/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/main.o
+x/Users/Preston Air/work/iPad/View_02/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Preston Air/work/iPad/View_02/main.m287511329#287511329#0(0"0(0#0#43"/Users/Preston Air/work/iPad/View_02/main.m4300903632#1857"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -include /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch -c "/Users/Preston Air/work/iPad/View_02/main.m" -o "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib"
+s287511328.638948
+e287511328.998220
+r1
+xCompileXIB
+x/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on OpenFlowViewController.
+lSLF07#2@45"CompileXIB Classes/OpenFlowViewController.xib287511328#287511328#0(244"/* com.apple.ibtool.document.warnings *//Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on OpenFlowViewController.1(22@117"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on OpenFlowViewController.287511328#18446744073709551615#0#0(6@71"/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib287470408#18446744073709551615#0#18446744073709551615#0#0"0(0#0#71"/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib4300903632#512"    cd "/Users/Preston Air/work/iPad/View_02"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/OpenFlowViewController.nib" "/Users/Preston Air/work/iPad/View_02/Classes/OpenFlowViewController.xib"0#
+
+CCompileXIB "/Users/Preston Air/work/iPad/View_02/MainWindow.xib"
+s287511328.110692
+e287511328.506582
+r1
+xCompileXIB
+x/Users/Preston Air/work/iPad/View_02/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287511328#287511328#0(0"0(0#0#51"/Users/Preston Air/work/iPad/View_02/MainWindow.xib4300903632#480"    cd "/Users/Preston Air/work/iPad/View_02"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/MainWindow.nib" "/Users/Preston Air/work/iPad/View_02/MainWindow.xib"0#
+
+CCompileXIB "/Users/Preston Air/work/iPad/View_02/View_02ViewController.xib"
+s287511328.111367
+e287511328.548464
+r1
+xCompileXIB
+x/Users/Preston Air/work/iPad/View_02/View_02ViewController.xib
+lSLF07#2@36"CompileXIB View_02ViewController.xib287511328#287511328#0(0"0(0#0#62"/Users/Preston Air/work/iPad/View_02/View_02ViewController.xib4300903632#502"    cd "/Users/Preston Air/work/iPad/View_02"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02ViewController.nib" "/Users/Preston Air/work/iPad/View_02/View_02ViewController.xib"0#
+
+CCpResource "build/Debug-iphonesimulator/View_02.app/Read me.txt" "Sample Images/Read me.txt"
+s287511328.634393
+e287511328.650101
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/Read me.txt
+xSample Images/Read me.txt
+lSLF07#2@30"Copy Sample Images/Read me.txt287511328#287511328#0(0"0(0#0#62"/Users/Preston Air/work/iPad/View_02/Sample Images/Read me.txt4300903632#469"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/Read me.txt" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/0.jpg "Sample Images/0.jpg"
+s287511328.506660
+e287511328.574894
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/0.jpg
+xSample Images/0.jpg
+lSLF07#2@24"Copy Sample Images/0.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/0.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/0.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/1.jpg "Sample Images/1.jpg"
+s287511328.507435
+e287511328.575806
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/1.jpg
+xSample Images/1.jpg
+lSLF07#2@24"Copy Sample Images/1.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/1.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/1.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/10.jpg "Sample Images/10.jpg"
+s287511328.508663
+e287511328.575899
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/10.jpg
+xSample Images/10.jpg
+lSLF07#2@25"Copy Sample Images/10.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/10.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/10.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/11.jpg "Sample Images/11.jpg"
+s287511328.509795
+e287511328.591798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/11.jpg
+xSample Images/11.jpg
+lSLF07#2@25"Copy Sample Images/11.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/11.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/11.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/12.jpg "Sample Images/12.jpg"
+s287511328.510951
+e287511328.578841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/12.jpg
+xSample Images/12.jpg
+lSLF07#2@25"Copy Sample Images/12.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/12.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/12.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/13.jpg "Sample Images/13.jpg"
+s287511328.511460
+e287511328.578944
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/13.jpg
+xSample Images/13.jpg
+lSLF07#2@25"Copy Sample Images/13.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/13.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/13.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/14.jpg "Sample Images/14.jpg"
+s287511328.512629
+e287511328.591884
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/14.jpg
+xSample Images/14.jpg
+lSLF07#2@25"Copy Sample Images/14.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/14.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/14.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/15.jpg "Sample Images/15.jpg"
+s287511328.513442
+e287511328.579063
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/15.jpg
+xSample Images/15.jpg
+lSLF07#2@25"Copy Sample Images/15.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/15.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/15.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/16.jpg "Sample Images/16.jpg"
+s287511328.513934
+e287511328.591970
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/16.jpg
+xSample Images/16.jpg
+lSLF07#2@25"Copy Sample Images/16.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/16.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/16.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/17.jpg "Sample Images/17.jpg"
+s287511328.548555
+e287511328.609395
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/17.jpg
+xSample Images/17.jpg
+lSLF07#2@25"Copy Sample Images/17.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/17.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/17.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/18.jpg "Sample Images/18.jpg"
+s287511328.575121
+e287511328.609302
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/18.jpg
+xSample Images/18.jpg
+lSLF07#2@25"Copy Sample Images/18.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/18.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/18.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/19.jpg "Sample Images/19.jpg"
+s287511328.576029
+e287511328.609480
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/19.jpg
+xSample Images/19.jpg
+lSLF07#2@25"Copy Sample Images/19.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/19.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/19.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/2.jpg "Sample Images/2.jpg"
+s287511328.577399
+e287511328.591696
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/2.jpg
+xSample Images/2.jpg
+lSLF07#2@24"Copy Sample Images/2.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/2.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/2.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/20.jpg "Sample Images/20.jpg"
+s287511328.579118
+e287511328.627049
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/20.jpg
+xSample Images/20.jpg
+lSLF07#2@25"Copy Sample Images/20.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/20.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/20.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/21.jpg "Sample Images/21.jpg"
+s287511328.583103
+e287511328.609653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/21.jpg
+xSample Images/21.jpg
+lSLF07#2@25"Copy Sample Images/21.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/21.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/21.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/22.jpg "Sample Images/22.jpg"
+s287511328.588204
+e287511328.609736
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/22.jpg
+xSample Images/22.jpg
+lSLF07#2@25"Copy Sample Images/22.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/22.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/22.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/23.jpg "Sample Images/23.jpg"
+s287511328.592071
+e287511328.609564
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/23.jpg
+xSample Images/23.jpg
+lSLF07#2@25"Copy Sample Images/23.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/23.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/23.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/24.jpg "Sample Images/24.jpg"
+s287511328.597576
+e287511328.649864
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/24.jpg
+xSample Images/24.jpg
+lSLF07#2@25"Copy Sample Images/24.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/24.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/24.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/25.jpg "Sample Images/25.jpg"
+s287511328.598169
+e287511328.621957
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/25.jpg
+xSample Images/25.jpg
+lSLF07#2@25"Copy Sample Images/25.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/25.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/25.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/26.jpg "Sample Images/26.jpg"
+s287511328.607087
+e287511328.622747
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/26.jpg
+xSample Images/26.jpg
+lSLF07#2@25"Copy Sample Images/26.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/26.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/26.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/27.jpg "Sample Images/27.jpg"
+s287511328.609792
+e287511328.633112
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/27.jpg
+xSample Images/27.jpg
+lSLF07#2@25"Copy Sample Images/27.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/27.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/27.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/28.jpg "Sample Images/28.jpg"
+s287511328.610290
+e287511328.634335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/28.jpg
+xSample Images/28.jpg
+lSLF07#2@25"Copy Sample Images/28.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/28.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/28.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/29.jpg "Sample Images/29.jpg"
+s287511328.610745
+e287511328.635664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/29.jpg
+xSample Images/29.jpg
+lSLF07#2@25"Copy Sample Images/29.jpg287511328#287511328#0(0"0(0#0#57"/Users/Preston Air/work/iPad/View_02/Sample Images/29.jpg4300903632#464"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/29.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/3.jpg "Sample Images/3.jpg"
+s287511328.611207
+e287511328.635758
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/3.jpg
+xSample Images/3.jpg
+lSLF07#2@24"Copy Sample Images/3.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/3.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/3.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/4.jpg "Sample Images/4.jpg"
+s287511328.612935
+e287511328.635870
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/4.jpg
+xSample Images/4.jpg
+lSLF07#2@24"Copy Sample Images/4.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/4.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/4.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/5.jpg "Sample Images/5.jpg"
+s287511328.613428
+e287511328.641872
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/5.jpg
+xSample Images/5.jpg
+lSLF07#2@24"Copy Sample Images/5.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/5.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/5.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/6.jpg "Sample Images/6.jpg"
+s287511328.622066
+e287511328.641475
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/6.jpg
+xSample Images/6.jpg
+lSLF07#2@24"Copy Sample Images/6.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/6.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/6.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/7.jpg "Sample Images/7.jpg"
+s287511328.622796
+e287511328.641965
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/7.jpg
+xSample Images/7.jpg
+lSLF07#2@24"Copy Sample Images/7.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/7.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/7.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/8.jpg "Sample Images/8.jpg"
+s287511328.627126
+e287511328.641372
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/8.jpg
+xSample Images/8.jpg
+lSLF07#2@24"Copy Sample Images/8.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/8.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/8.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/9.jpg "Sample Images/9.jpg"
+s287511328.633179
+e287511328.650003
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/9.jpg
+xSample Images/9.jpg
+lSLF07#2@24"Copy Sample Images/9.jpg287511328#287511328#0(0"0(0#0#56"/Users/Preston Air/work/iPad/View_02/Sample Images/9.jpg4300903632#463"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Sample Images/9.jpg" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CCpResource build/Debug-iphonesimulator/View_02.app/Desk.png Desk.png
+s287511328.635921
+e287511328.674721
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/View_02.app/Desk.png
+xDesk.png
+lSLF07#2@13"Copy Desk.png287511328#287511328#0(0"0(0#0#45"/Users/Preston Air/work/iPad/View_02/Desk.png4300903632#452"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Preston Air/work/iPad/View_02/Desk.png" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
+CGenerateDSYMFile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app.dSYM" "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02"
+s287511330.068307
+e287511330.084301
+r1
+xGenerateDSYMFile
+x/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app.dSYM
+x/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/View_02.app.dSYM build/Debug-iphonesimulator/View_02.app/View_02287511330#287511330#0(0"0(0#0#84"/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_024300903632#383"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02" -o "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app.dSYM"0#
+
+CLd "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02" normal i386
+s287511330.044911
+e287511330.068211
+r1
+xLd
+x/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02
+xnormal
+xi386
+lSLF07#2@89"Link /Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02287511330#287511330#0(0"0(0#0#0"4300903632#884"    cd "/Users/Preston Air/work/iPad/View_02"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" -filelist "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/Objects-normal/i386/View_02.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/View_02"0#
+
+CProcessInfoPlistFile "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Info.plist" View_02-Info.plist
+s287511328.095918
+e287511328.110614
+r1
+xProcessInfoPlistFile
+x/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Info.plist
+xView_02-Info.plist
+lSLF07#2@26"Process View_02-Info.plist287511328#287511328#0(0"0(0#0#55"/Users/Preston Air/work/iPad/View_02/View_02-Info.plist4300903632#479"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility View_02-Info.plist -genpkginfo "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app/Info.plist"0#
+
+CProcessPCH /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch.gch View_02_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287511328.998324
+e287511329.720334
+r1
+xProcessPCH
+x/var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch.gch
+xView_02_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile View_02_Prefix.pch287511328#287511329#0(0"0(0#0#55"/Users/Preston Air/work/iPad/View_02/View_02_Prefix.pch4300903632#1749"    cd "/Users/Preston Air/work/iPad/View_02"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-generated-files.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-own-target-headers.hmap" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-all-target-headers.hmap" -iquote "/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/View_02-project-headers.hmap" "-F/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator" "-I/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/include" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources/i386" "-I/Users/Preston Air/work/iPad/View_02/build/View_02.build/Debug-iphonesimulator/View_02.build/DerivedSources" -c "/Users/Preston Air/work/iPad/View_02/View_02_Prefix.pch" -o /var/folders/dk/dkV8L-YUF1GRrOtPqIp9yE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/View_02_Prefix-gtgfdkzflqeebvbtwnwdnpxmqxdh/View_02_Prefix.pch.gch0#
+
+CTouch "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"
+s287511330.084387
+e287511330.087770
+r1
+xTouch
+x/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app
+lSLF07#2@82"Touch /Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app287511330#287511330#0(0"0(0#0#0"4300903632#278"    cd "/Users/Preston Air/work/iPad/View_02"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Preston Air/work/iPad/View_02/build/Debug-iphonesimulator/View_02.app"0#
+
