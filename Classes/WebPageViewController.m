@@ -74,8 +74,8 @@
 }
 
 - (IBAction)handlePanGesture:(UIPanGestureRecognizer *)sender {
-    CGPoint translate = sender.translation;
-	
+    CGPoint translate = [sender translationInView:[sender view]];
+
     CGRect newFrame = currentImageFrame;
 //    CGRect newFrame = sender.view.frame;
     newFrame.origin.x += translate.x;
